@@ -1,2 +1,2 @@
 # projeto1
-Um novo projeto
+Um projeto utilizando apenas conceitos de html.
